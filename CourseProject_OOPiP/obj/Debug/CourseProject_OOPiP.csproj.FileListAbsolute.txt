@@ -1,0 +1,9 @@
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.exe.config
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.exe
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.pdb
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.AssemblyReference.cache
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.Properties.Resources.resources
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.GenerateResource.cache
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.CoreCompileInputs.cache
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.exe
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.pdb
