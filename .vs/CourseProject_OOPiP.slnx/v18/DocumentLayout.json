@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|c:\\users\\mesud\\source\\repos\\courseproject_oopip\\courseproject_oopip\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|c:\\users\\mesud\\source\\repos\\courseproject_oopip\\courseproject_oopip\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|c:\\users\\mesud\\source\\repos\\courseproject_oopip\\courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|c:\\users\\mesud\\source\\repos\\courseproject_oopip\\courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +31,48 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Core.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Core.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP\\Core.cs",
+              "ToolTip": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Core.cs",
+              "RelativeToolTip": "CourseProject_OOPiP\\Core.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAA0wGIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:39:25.374Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Models.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP\\Models.cs",
+              "ToolTip": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Models.cs",
+              "RelativeToolTip": "CourseProject_OOPiP\\Models.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwIkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:35:52.563Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP\\Form1.cs",
+              "ToolTip": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
+              "RelativeToolTip": "CourseProject_OOPiP\\Form1.cs",
+              "ViewState": "AgIAANUAAAAAAAAAAAAhwOQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T20:14:55.072Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mesud\\source\\repos\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Form1.cs",
@@ -26,6 +80,7 @@
               "RelativeToolTip": "CourseProject_OOPiP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T20:06:26.432Z",
+              "IsPinned": true,
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]

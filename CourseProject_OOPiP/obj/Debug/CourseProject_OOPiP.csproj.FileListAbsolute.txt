@@ -7,3 +7,4 @@ C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\Co
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.CoreCompileInputs.cache
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.exe
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.pdb
+C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.Form1.resources

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPublication xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Publication xsi:type="Magazine">
+    <Title>Журнал Карусель</Title>
+    <Year>2023</Year>
+    <Price>100</Price>
+    <IssueNumber>1</IssueNumber>
+    <Periodicity>5</Periodicity>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Мертвые души</Title>
+    <Year>2026</Year>
+    <Price>200</Price>
+    <Author>Гоголь</Author>
+    <Isbn>12345</Isbn>
+    <IssueNumber>0</IssueNumber>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Заметки великих</Title>
+    <Year>1999</Year>
+    <Price>500</Price>
+    <Author>Никита</Author>
+    <Isbn>21313</Isbn>
+    <IssueNumber>0</IssueNumber>
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Великий журнал Никиты</Title>
+    <Year>2025</Year>
+    <Price>50</Price>
+    <IssueNumber>1</IssueNumber>
+    <Periodicity>5</Periodicity>
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Биография Гоголя</Title>
+    <Year>2026</Year>
+    <Price>300</Price>
+    <IssueNumber>2</IssueNumber>
+    <Periodicity>2</Periodicity>
+  </Publication>
+</ArrayOfPublication>
