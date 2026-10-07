@@ -8,3 +8,13 @@ C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\Co
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.exe
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.pdb
 C:\Users\mesud\source\repos\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.Form1.resources
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.exe.config
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.exe
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\bin\Debug\CourseProject_OOPiP.pdb
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.AssemblyReference.cache
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.Form1.resources
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.Properties.Resources.resources
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.GenerateResource.cache
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.csproj.CoreCompileInputs.cache
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.exe
+C:\Users\mesud\Odedka\Musor\Cursach_ZIT31_OOPiP\CourseProject_OOPiP\CourseProject_OOPiP\obj\Debug\CourseProject_OOPiP.pdb

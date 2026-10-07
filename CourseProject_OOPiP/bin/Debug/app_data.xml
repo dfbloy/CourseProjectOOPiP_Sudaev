@@ -3,7 +3,7 @@
   <Publication xsi:type="Magazine">
     <Title>Журнал Карусель</Title>
     <Year>2023</Year>
-    <Price>100</Price>
+    <Price>122</Price>
     <IssueNumber>1</IssueNumber>
     <Periodicity>5</Periodicity>
   </Publication>
@@ -18,7 +18,7 @@
   <Publication xsi:type="Book">
     <Title>Заметки великих</Title>
     <Year>1999</Year>
-    <Price>500</Price>
+    <Price>700</Price>
     <Author>Никита</Author>
     <Isbn>21313</Isbn>
     <IssueNumber>0</IssueNumber>
@@ -36,5 +36,20 @@
     <Price>300</Price>
     <IssueNumber>2</IssueNumber>
     <Periodicity>2</Periodicity>
+  </Publication>
+  <Publication xsi:type="Book">
+    <Title>Человек и мир </Title>
+    <Year>2022</Year>
+    <Price>122</Price>
+    <Author>Олег</Author>
+    <Isbn>43242</Isbn>
+    <IssueNumber xsi:nil="true" />
+  </Publication>
+  <Publication xsi:type="Magazine">
+    <Title>Мирное время</Title>
+    <Year>2025</Year>
+    <Price>300</Price>
+    <IssueNumber>1</IssueNumber>
+    <Periodicity>3</Periodicity>
   </Publication>
 </ArrayOfPublication>

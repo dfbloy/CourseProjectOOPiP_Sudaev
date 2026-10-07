@@ -67,9 +67,13 @@ namespace CourseProject_OOPiP
             if (_isProgrammaticAdd) return;
             if (e.RowIndex < 0 || e.ColumnIndex < 0) return;
 
-            var propName = dataGridView1.Columns[e.ColumnIndex].DataPropertyName;
-            string newValue = e.FormattedValue.ToString();
             var row = dataGridView1.Rows[e.RowIndex];
+            var item = row.DataBoundItem as Publication;
+
+            if (IsPublicationEmpty(item)) return;
+
+            var propName = dataGridView1.Columns[e.ColumnIndex].DataPropertyName;
+            string newValue = e.FormattedValue?.ToString() ?? string.Empty;
 
             var validatableItem = row.DataBoundItem as IValidatable;
             if (validatableItem == null) return;
@@ -78,6 +82,15 @@ namespace CourseProject_OOPiP
             if (currentCell.ReadOnly) return;
 
             string errorMessage = validatableItem.ValidateField(propName, newValue);
+
+            if (errorMessage == null && propName == "Isbn")
+            {
+                var currentBook = row.DataBoundItem as Book;
+                if (!_repository.IsIsbnUnique(newValue, currentBook))
+                {
+                    errorMessage = "Книга с таким ISBN уже существует в базе.";
+                }
+            }
 
             if (errorMessage != null)
             {
@@ -177,12 +190,67 @@ namespace CourseProject_OOPiP
             _isProgrammaticAdd = false;
         }
 
+        private static bool IsPublicationEmpty(Publication item)
+        {
+            if (item == null) return true;
+
+            if (item is Book book)
+            {
+                return string.IsNullOrWhiteSpace(book.Title)
+                    && book.Year == null
+                    && book.Price == null
+                    && string.IsNullOrWhiteSpace(book.Author)
+                    && string.IsNullOrWhiteSpace(book.Isbn);
+            }
+
+            if (item is Magazine mag)
+            {
+                return string.IsNullOrWhiteSpace(mag.Title)
+                    && mag.Year == null
+                    && mag.Price == null
+                    && mag.IssueNumber == null
+                    && string.IsNullOrWhiteSpace(mag.Periodicity);
+            }
+
+            return false;
+        }
+
         private void button4_Click(object sender, EventArgs e)
         {
-            if (dataGridView1.CurrentRow != null)
+            dataGridView1.EndEdit();
+
+            if (dataGridView1.CurrentRow == null)
             {
-                var selectedItem = dataGridView1.CurrentRow.DataBoundItem as Publication;
-                _repository.Remove(selectedItem);
+                MessageBox.Show("Выберите запись для удаления.", "Внимание",
+                    MessageBoxButtons.OK, MessageBoxIcon.Information);
+                return;
+            }
+
+            var selectedItem = dataGridView1.CurrentRow.DataBoundItem as Publication;
+            if (selectedItem == null) return;
+
+            if (!IsPublicationEmpty(selectedItem))
+            {
+                string typeName = selectedItem is Book ? "книгу" : "журнал";
+                string title = string.IsNullOrWhiteSpace(selectedItem.Title)
+                    ? "(без названия)"
+                    : $"«{selectedItem.Title}»";
+
+                var result = MessageBox.Show(
+                    $"Вы действительно хотите удалить {typeName} {title}?",
+                    "Подтверждение удаления",
+                    MessageBoxButtons.YesNo,
+                    MessageBoxIcon.Question,
+                    MessageBoxDefaultButton.Button2);
+
+                if (result != DialogResult.Yes) return;
+            }
+
+            _repository.Remove(selectedItem);
+
+            if (dataGridView1.DataSource != _repository.GetAll())
+            {
+                dataGridView1.DataSource = _repository.GetAll();
             }
         }
 

@@ -71,6 +71,47 @@ namespace CourseProject_OOPiP
                 }
             }
         }
+
+        public bool IsIsbnUnique(string isbn, Publication excludeItem = null)
+        {
+            if (string.IsNullOrWhiteSpace(isbn)) return true;
+
+            string normalized = isbn.Trim();
+            foreach (var item in _items)
+            {
+                if (item is Book book && !ReferenceEquals(book, excludeItem))
+                {
+                    if (string.Equals(book.Isbn?.Trim(), normalized, StringComparison.OrdinalIgnoreCase))
+                        return false;
+                }
+            }
+            return true;
+        }
+
+        public static bool IsEmpty(Publication item)
+        {
+            if (item == null) return true;
+
+            if (item is Book book)
+            {
+                return string.IsNullOrWhiteSpace(book.Title)
+                    && book.Year == null
+                    && book.Price == null
+                    && string.IsNullOrWhiteSpace(book.Author)
+                    && string.IsNullOrWhiteSpace(book.Isbn);
+            }
+
+            if (item is Magazine mag)
+            {
+                return string.IsNullOrWhiteSpace(mag.Title)
+                    && mag.Year == null
+                    && mag.Price == null
+                    && mag.IssueNumber == null
+                    && string.IsNullOrWhiteSpace(mag.Periodicity);
+            }
+
+            return false;
+        }
     }
 
     public class SortableBindingList<T> : BindingList<T>
