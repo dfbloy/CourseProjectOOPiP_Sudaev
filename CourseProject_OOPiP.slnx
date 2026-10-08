@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="CourseProject_OOPiP.Tests/CourseProject_OOPiP.Tests.csproj" Id="23c48393-2eb5-4299-8382-90b9655b4522" />
   <Project Path="CourseProject_OOPiP/CourseProject_OOPiP.csproj" Id="1e2b2860-9665-418e-bd17-ee2f5fd0228b" />
 </Solution>

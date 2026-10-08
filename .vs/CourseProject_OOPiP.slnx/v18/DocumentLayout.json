@@ -7,16 +7,36 @@
       "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\core.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|c:\\users\\mesud\\odedka\\musor\\cursach_zit31_oopip\\courseproject_oopip\\courseproject_oopip.tests\\bookvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|solutionrelative:courseproject_oopip.tests\\bookvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|c:\\users\\mesud\\odedka\\musor\\cursach_zit31_oopip\\courseproject_oopip\\courseproject_oopip.tests\\containstexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|solutionrelative:courseproject_oopip.tests\\containstexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|c:\\users\\mesud\\odedka\\musor\\cursach_zit31_oopip\\courseproject_oopip\\courseproject_oopip.tests\\sortablebindinglisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|solutionrelative:courseproject_oopip.tests\\sortablebindinglisttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|c:\\users\\mesud\\odedka\\musor\\cursach_zit31_oopip\\courseproject_oopip\\courseproject_oopip.tests\\datarepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|solutionrelative:courseproject_oopip.tests\\datarepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|c:\\users\\mesud\\odedka\\musor\\cursach_zit31_oopip\\courseproject_oopip\\courseproject_oopip.tests\\magazinevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C48393-2EB5-4299-8382-90B9655B4522}|CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj|solutionrelative:courseproject_oopip.tests\\magazinevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\courseproject_oopip\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|solutionrelative:courseproject_oopip\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E2B2860-9665-418E-BD17-EE2F5FD0228B}|CourseProject_OOPiP\\CourseProject_OOPiP.csproj|C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\courseproject_oopip\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -40,7 +60,7 @@
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Core.cs",
               "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Core.cs",
               "RelativeToolTip": "CourseProject_OOPiP\\Core.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAADgvx0AAABGAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAEwEEAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T20:39:25.374Z",
               "IsPinned": true,
@@ -48,33 +68,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Models.cs",
               "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Models.cs",
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Models.cs",
               "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Models.cs",
               "RelativeToolTip": "CourseProject_OOPiP\\Models.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA2wCIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAQwIkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T20:35:52.563Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Form1.cs",
               "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
               "RelativeToolTip": "CourseProject_OOPiP\\Form1.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAmwJgAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAAABkBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T20:14:55.072Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Form1.cs",
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Form1.cs",
@@ -82,11 +104,77 @@
               "RelativeToolTip": "CourseProject_OOPiP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-21T20:06:26.432Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\BookValidationTests.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP.Tests\\BookValidationTests.cs",
+              "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\BookValidationTests.cs",
+              "RelativeToolTip": "CourseProject_OOPiP.Tests\\BookValidationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:51:48.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContainsTextTests.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\ContainsTextTests.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP.Tests\\ContainsTextTests.cs",
+              "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\ContainsTextTests.cs",
+              "RelativeToolTip": "CourseProject_OOPiP.Tests\\ContainsTextTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:31:25.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SortableBindingListTests.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\SortableBindingListTests.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP.Tests\\SortableBindingListTests.cs",
+              "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\SortableBindingListTests.cs",
+              "RelativeToolTip": "CourseProject_OOPiP.Tests\\SortableBindingListTests.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAA6wFoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:31:54.896Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "DataRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\DataRepositoryTests.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP.Tests\\DataRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\DataRepositoryTests.cs",
+              "RelativeToolTip": "CourseProject_OOPiP.Tests\\DataRepositoryTests.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAQwBMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:31:36.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MagazineValidationTests.cs",
+              "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\MagazineValidationTests.cs",
+              "RelativeDocumentMoniker": "CourseProject_OOPiP.Tests\\MagazineValidationTests.cs",
+              "ToolTip": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\MagazineValidationTests.cs",
+              "RelativeToolTip": "CourseProject_OOPiP.Tests\\MagazineValidationTests.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAQwK8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T08:31:14.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\Program.cs",
               "RelativeDocumentMoniker": "CourseProject_OOPiP\\Program.cs",

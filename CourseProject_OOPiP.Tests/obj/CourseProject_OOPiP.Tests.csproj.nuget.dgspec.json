@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj",
+        "projectName": "CourseProject_OOPiP.Tests",
+        "projectPath": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\CourseProject_OOPiP.Tests.csproj",
+        "packagesPath": "C:\\Users\\mesud\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mesud\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.csproj": {
+                "projectPath": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472",
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[4.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.csproj",
+        "projectName": "CourseProject_OOPiP",
+        "projectPath": "C:\\Users\\mesud\\Odedka\\Musor\\Cursach_ZIT31_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP\\CourseProject_OOPiP.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "framework": "net472",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "framework": "net472"
+        }
+      }
+    }
+  }
+}
